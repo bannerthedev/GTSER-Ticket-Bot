@@ -3,7 +3,7 @@ import discord
 from discord import app_commands
 from discord.ext import commands
 
-TOKEN = "MTUxMTkwNTg3MTM2MDE2Mzk1MA.GbtxGU.KXquWagQTTYfdgdLWbnEd1SCF_9ZzdLkDNDY5M"
+TOKEN = "BOT TOKEN"
 GUILD_ID = 1290693891862958112  # Guild ID where command registers
 # Add as many staff role IDs as you want here:
 STAFF_ROLE_IDS = [1518482686824681564, 1291073222099337335, 1290694789012127845, 1361629320518566050]  # example: [role_id1, role_id2, ...]
